@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://sunkev.github.io/atom.xml" rel="self"/>
+  <link href="http://sunkev.github.io/"/>
+  <updated>2013-08-29T18:09:54-04:00</updated>
+  <id>http://sunkev.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[First Post]]></title>
+    <link href="http://sunkev.github.io/blog/2013/08/29/first-post/"/>
+    <updated>2013-08-29T00:00:00-04:00</updated>
+    <id>http://sunkev.github.io/blog/2013/08/29/first-post</id>
+    <content type="html"><![CDATA[<h3>Just finished working on all the core assignments, testing out this &lsquo;markdown&rsquo;</h3>
+
+<p><strong>empasized words using asterisks</strong></p>
+
+<p><em>Or using them
+</em>For
+<em>A
+</em>List
+*Style</p>
+
+<p>I think regular text is the best. It is great in all situations.</p>
+]]></content>
+  </entry>
+  
+</feed>
